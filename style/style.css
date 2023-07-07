@@ -52,7 +52,11 @@ div{
 h2,h3{
     text-decoration: underline;
 }
+figcaption{
+    text-align: center;
+}
 img{
     width: 6cm;
     border-radius: 2%;
+    
 }
