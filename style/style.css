@@ -6,11 +6,11 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
-ul{
+#main ul{
     margin-top: 10%;
     list-style: none;
 }
-li{
+#main li{
     float: left;
 }
 a{
@@ -42,6 +42,7 @@ a>img:hover{
 a>img{
     width: 6cm;
     border-radius: 50%;
+    
 }
 div{
     text-align: justify;
